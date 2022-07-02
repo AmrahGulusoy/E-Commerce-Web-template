@@ -1,0 +1,181 @@
+.section5{
+    width: 100%;
+    padding-top: 50px;
+    .row{
+        display: flex;
+        align-items: flex-start;
+    }
+    .right-box{
+       .toy{
+           display: flex;
+           align-items: center;
+           
+           .fgbox{
+               display: flex;
+               flex-direction: column;
+               align-items: center;
+               h5{
+                   font-size: 18px;
+               }
+               button{
+                   border-radius: 5px;
+                   background-color: #fb7c00;
+                   color: white;
+                   border: none;
+               }
+               .cbox{
+                   display: flex;
+                   .b1{
+                       display: flex;
+                       align-items: center;
+                       margin-left: 5px;
+                       margin-right: 10px;
+                       p{
+                           margin-left: 3px;
+                       }
+                   }
+                   .b2{
+                       display: flex;
+                       align-items: center;
+                       p{
+                        margin-left: 3px;
+                    }
+                   }
+
+               }
+           }
+           
+           .iconbox1{
+               margin-top: 5px;
+               color: yellow;
+           }
+           h6{
+               margin-top: 10px;
+               font-size: 18px;
+
+           }
+           p{
+               font-size: 15px;
+               margin-top: 10px;
+           }
+       }
+    }
+    .leftbox1{
+        background-color: rgb(249, 244, 244);
+        
+        border: 1px solid rgb(229, 223, 223);
+        .pdbox{
+            margin-top: 18px;
+            p{
+                font-size: 24px;
+            }
+            .bbox{
+                position: relative;
+                
+               
+                
+                    
+                    svg{
+                     left: 170px;
+                     margin-top: 5px;
+                        position: absolute;
+                    }
+                
+            }
+            .boxes3{
+                height: 150px;
+                overflow-y: scroll;
+                display: flex;
+                flex-direction: column;
+                margin-top: 15px;
+
+               
+                .box{
+                    input{
+                      padding: 20px;
+                      margin-right: 7px;
+                      margin-bottom: 10px;
+                      
+
+                    }
+                    p{
+                        font-size: 18px;
+                    }
+                    display: flex;
+                    align-items: center;
+                }
+            }
+        }
+
+        .albox{
+            display: flex;
+            flex-direction: column;
+            .tbox{
+                display: flex;
+                justify-content: space-between;
+            }
+            .pbox{
+                margin-top: 15px;
+                display: flex;
+                justify-content: space-between;
+                button{
+                    padding: 0px 40px !important;
+                    color: white;
+                    border-radius: 3px;
+                    border: none;
+                    background-color:#fb7c00 ;
+                }
+            }
+        }
+        h1{
+           margin-left: 23px;
+            margin-top: 12px;
+        }
+        .ay{
+            p{
+                margin-left: 18px;
+                font-size: 24px;
+            }
+            .boxes1{
+                width: 220px;
+                display: flex;
+                flex-wrap: wrap;
+                .box{
+
+                    margin-left: 6px;
+                    width: 30px;
+                    height: 30px;
+                    border-radius: 50%;
+                }
+                .box1{
+                    background-color: red;
+                }
+                .box2{
+                    background-color: blue;
+                }
+                .box3{
+                    background-color: yellow;
+                }
+                .box4{
+                    background-color: white;
+                }
+                .box5{
+                    background-color: brown;
+                }
+                .box6{
+                    background-color: orange;
+                }
+                .box7{
+                    margin-top: 7px;
+                    background-color: rgb(2, 2, 36);
+                }
+                .box8{
+                    margin-top: 7px;
+                    background-color: pink;
+                }
+            }
+        }
+        
+    }
+}
+

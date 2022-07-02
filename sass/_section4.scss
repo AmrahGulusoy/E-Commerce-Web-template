@@ -1,0 +1,100 @@
+.section4{
+    width: 100%;
+    padding-top: 50px;
+    h2{
+        text-align: end;
+    }
+    .rightbox{
+        margin-left: 20px;
+        
+        .boxes{
+            display: flex;
+            .all{
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: flex-start;
+
+                .al{
+                    margin-top: 8px;
+                    display: flex;
+                    h6{
+                        margin-right: 5px;
+                    }
+                }
+                .iconbox{
+                    .bi{
+                        color: yellow;
+                    }
+                }
+            }
+        }
+        .box{
+        
+            width: 200px;
+            height: 200px;
+            
+            
+            margin-left: 15px;
+        }
+        .box1{
+            background-image: url(.//img/sofa.jpg);
+            background-repeat: no-repeat;
+           
+        background-size: 100%;
+        }
+        .box2{
+            background-image: url(.//img/skaf.jpg);
+            background-size: 100%;
+            transition: all 1s ease;
+            background-repeat: no-repeat;
+            &:hover{
+                background-repeat: no-repeat;
+                background-image: url(.//img/skaf2.jpg);
+            }
+        }
+        .box3{
+            background-image: url(.//img/spin.jpg);
+            background-size: 100%;
+            transition: all 1s ease;
+            background-repeat: no-repeat;
+            &:hover{
+                background-repeat: no-repeat;
+                background-image: url(.//img/spin2.jpg);
+            }
+        }
+        .box4{
+            background-image: url(.//img/stul.jpg);
+            background-size: 100%;
+            background-repeat: no-repeat;
+            transition: all 1s ease;
+            &:hover{
+                background-repeat: no-repeat;
+                background-image: url(.//img/stul2.jpg);
+            }
+        }
+
+    }
+
+    .leftbox{
+        
+        
+        h1{
+           margin-left: 23px;
+            margin-top: 12px;
+        }
+        li{
+            list-style: none;
+            margin-top: 11px;
+            a{
+                text-decoration: none;
+                color: black;
+                
+                &:hover{
+                    color: #fb7c00;
+                }
+            }
+        }
+        
+    }
+}

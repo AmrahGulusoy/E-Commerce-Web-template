@@ -1,0 +1,24 @@
+.section1{
+    form{
+        margin-left: 150px !important;
+        input{
+            width: 330px !important;
+        }
+        .btn{
+            border: 1px solid #fb7c00;
+            background-color: #fb7c00;
+            color: white;
+            padding: 6px 12px;
+        }
+    }
+    ul{
+        
+     display: flex !important;
+     
+     align-items: center !important;
+     li{
+         margin-right: 25px !important;
+     }
+    }
+
+}

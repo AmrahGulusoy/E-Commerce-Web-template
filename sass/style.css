@@ -1,0 +1,438 @@
+.alma .navbar {
+  background-color: #f9f4f4 !important;
+}
+
+.alma img {
+  margin-right: 4px;
+}
+
+.alma .navbar-brand {
+  font-size: 15px;
+}
+
+.section1 form {
+  margin-left: 150px !important;
+}
+
+.section1 form input {
+  width: 330px !important;
+}
+
+.section1 form .btn {
+  border: 1px solid #fb7c00;
+  background-color: #fb7c00;
+  color: white;
+  padding: 6px 12px;
+}
+
+.section1 ul {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-align: center !important;
+      -ms-flex-align: center !important;
+          align-items: center !important;
+}
+
+.section1 ul li {
+  margin-right: 25px !important;
+}
+
+.section2 .navbar {
+  background-color: #fb7c00 !important;
+}
+
+.section2 .dropdown-item {
+  color: black !important;
+}
+
+.section2 a {
+  color: white !important;
+  font-size: 18px !important;
+  margin-left: 10px;
+}
+
+.section3 .navbar {
+  background-color: #f9f4f4 !important;
+}
+
+.section3 a {
+  font-size: 15px !important;
+}
+
+.section4 {
+  width: 100%;
+  padding-top: 50px;
+}
+
+.section4 h2 {
+  text-align: end;
+}
+
+.section4 .rightbox {
+  margin-left: 20px;
+}
+
+.section4 .rightbox .boxes {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.section4 .rightbox .boxes .all {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.section4 .rightbox .boxes .all .al {
+  margin-top: 8px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.section4 .rightbox .boxes .all .al h6 {
+  margin-right: 5px;
+}
+
+.section4 .rightbox .boxes .all .iconbox .bi {
+  color: yellow;
+}
+
+.section4 .rightbox .box {
+  width: 200px;
+  height: 200px;
+  margin-left: 15px;
+}
+
+.section4 .rightbox .box1 {
+  background-image: url(.//img/sofa.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.section4 .rightbox .box2 {
+  background-image: url(.//img/skaf.jpg);
+  background-size: 100%;
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+  background-repeat: no-repeat;
+}
+
+.section4 .rightbox .box2:hover {
+  background-repeat: no-repeat;
+  background-image: url(.//img/skaf2.jpg);
+}
+
+.section4 .rightbox .box3 {
+  background-image: url(.//img/spin.jpg);
+  background-size: 100%;
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+  background-repeat: no-repeat;
+}
+
+.section4 .rightbox .box3:hover {
+  background-repeat: no-repeat;
+  background-image: url(.//img/spin2.jpg);
+}
+
+.section4 .rightbox .box4 {
+  background-image: url(.//img/stul.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+.section4 .rightbox .box4:hover {
+  background-repeat: no-repeat;
+  background-image: url(.//img/stul2.jpg);
+}
+
+.section4 .leftbox h1 {
+  margin-left: 23px;
+  margin-top: 12px;
+}
+
+.section4 .leftbox li {
+  list-style: none;
+  margin-top: 11px;
+}
+
+.section4 .leftbox li a {
+  text-decoration: none;
+  color: black;
+}
+
+.section4 .leftbox li a:hover {
+  color: #fb7c00;
+}
+
+.section5 {
+  width: 100%;
+  padding-top: 50px;
+}
+
+.section5 .row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.section5 .right-box .toy {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section5 .right-box .toy .fgbox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section5 .right-box .toy .fgbox h5 {
+  font-size: 18px;
+}
+
+.section5 .right-box .toy .fgbox button {
+  border-radius: 5px;
+  background-color: #fb7c00;
+  color: white;
+  border: none;
+}
+
+.section5 .right-box .toy .fgbox .cbox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.section5 .right-box .toy .fgbox .cbox .b1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+.section5 .right-box .toy .fgbox .cbox .b1 p {
+  margin-left: 3px;
+}
+
+.section5 .right-box .toy .fgbox .cbox .b2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section5 .right-box .toy .fgbox .cbox .b2 p {
+  margin-left: 3px;
+}
+
+.section5 .right-box .toy .iconbox1 {
+  margin-top: 5px;
+  color: yellow;
+}
+
+.section5 .right-box .toy h6 {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.section5 .right-box .toy p {
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.section5 .leftbox1 {
+  background-color: #f9f4f4;
+  border: 1px solid #e5dfdf;
+}
+
+.section5 .leftbox1 .pdbox {
+  margin-top: 18px;
+}
+
+.section5 .leftbox1 .pdbox p {
+  font-size: 24px;
+}
+
+.section5 .leftbox1 .pdbox .bbox {
+  position: relative;
+}
+
+.section5 .leftbox1 .pdbox .bbox svg {
+  left: 170px;
+  margin-top: 5px;
+  position: absolute;
+}
+
+.section5 .leftbox1 .pdbox .boxes3 {
+  height: 150px;
+  overflow-y: scroll;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-top: 15px;
+}
+
+.section5 .leftbox1 .pdbox .boxes3 .box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section5 .leftbox1 .pdbox .boxes3 .box input {
+  padding: 20px;
+  margin-right: 7px;
+  margin-bottom: 10px;
+}
+
+.section5 .leftbox1 .pdbox .boxes3 .box p {
+  font-size: 18px;
+}
+
+.section5 .leftbox1 .albox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.section5 .leftbox1 .albox .tbox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.section5 .leftbox1 .albox .pbox {
+  margin-top: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.section5 .leftbox1 .albox .pbox button {
+  padding: 0px 40px !important;
+  color: white;
+  border-radius: 3px;
+  border: none;
+  background-color: #fb7c00;
+}
+
+.section5 .leftbox1 h1 {
+  margin-left: 23px;
+  margin-top: 12px;
+}
+
+.section5 .leftbox1 .ay p {
+  margin-left: 18px;
+  font-size: 24px;
+}
+
+.section5 .leftbox1 .ay .boxes1 {
+  width: 220px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.section5 .leftbox1 .ay .boxes1 .box {
+  margin-left: 6px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.section5 .leftbox1 .ay .boxes1 .box1 {
+  background-color: red;
+}
+
+.section5 .leftbox1 .ay .boxes1 .box2 {
+  background-color: blue;
+}
+
+.section5 .leftbox1 .ay .boxes1 .box3 {
+  background-color: yellow;
+}
+
+.section5 .leftbox1 .ay .boxes1 .box4 {
+  background-color: white;
+}
+
+.section5 .leftbox1 .ay .boxes1 .box5 {
+  background-color: brown;
+}
+
+.section5 .leftbox1 .ay .boxes1 .box6 {
+  background-color: orange;
+}
+
+.section5 .leftbox1 .ay .boxes1 .box7 {
+  margin-top: 7px;
+  background-color: #020224;
+}
+
+.section5 .leftbox1 .ay .boxes1 .box8 {
+  margin-top: 7px;
+  background-color: pink;
+}
+
+.sweet button {
+  background-color: #fb7c00;
+  padding: 4px 20px;
+  border: none;
+  border-radius: 4px;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
